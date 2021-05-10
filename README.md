@@ -29,3 +29,7 @@ Currently it only supports limited categories:
 * handphone
 * laptop
 * other
+
+## if any error in driverChrome 
+you need to edit like this tutorial
+* [Chrome Driver](https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver)
